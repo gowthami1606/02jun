@@ -3,3 +3,6 @@ azure
 gcp
 oracle
 java
+phyton
+sap
+.net

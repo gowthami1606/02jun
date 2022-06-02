@@ -5,3 +5,6 @@ oracle
 java
 sap
 docker
+phyton
+sap
+.net

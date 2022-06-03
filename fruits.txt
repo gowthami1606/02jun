@@ -1,3 +1,6 @@
 apple
 banana
 papapya
+pomegrante
+grapes
+dates

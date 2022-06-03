@@ -3,4 +3,5 @@ banana
 papapya
 pomegrante
 grapes
-dates
+dates 
+All above fruits are good for health

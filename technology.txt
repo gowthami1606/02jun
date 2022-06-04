@@ -12,3 +12,4 @@ hadoop
 full stack
 zoho
 lms
+Ansible is simple configuration management tool

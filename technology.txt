@@ -10,3 +10,5 @@ sap
 .net
 hadoop
 full stack
+zoho
+lms
